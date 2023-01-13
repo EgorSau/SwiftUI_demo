@@ -11,7 +11,6 @@
 		206E4B91295C863600BE4E66 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 206E4B90295C863600BE4E66 /* ContentView.swift */; };
 		206E4B93295C863800BE4E66 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 206E4B92295C863800BE4E66 /* Assets.xcassets */; };
 		206E4B96295C863800BE4E66 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 206E4B95295C863800BE4E66 /* Preview Assets.xcassets */; };
-		206E4B9D295CA86F00BE4E66 /* ContentView_demo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 206E4B9C295CA86F00BE4E66 /* ContentView_demo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,7 +19,6 @@
 		206E4B90295C863600BE4E66 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		206E4B92295C863800BE4E66 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		206E4B95295C863800BE4E66 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		206E4B9C295CA86F00BE4E66 /* ContentView_demo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView_demo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,7 +53,6 @@
 			children = (
 				206E4B8E295C863600BE4E66 /* SwiftUI_demoApp.swift */,
 				206E4B90295C863600BE4E66 /* ContentView.swift */,
-				206E4B9C295CA86F00BE4E66 /* ContentView_demo.swift */,
 				206E4B92295C863800BE4E66 /* Assets.xcassets */,
 				206E4B94295C863800BE4E66 /* Preview Content */,
 			);
@@ -141,7 +138,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				206E4B91295C863600BE4E66 /* ContentView.swift in Sources */,
-				206E4B9D295CA86F00BE4E66 /* ContentView_demo.swift in Sources */,
 				206E4B8F295C863600BE4E66 /* SwiftUI_demoApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -11,9 +11,7 @@ import SwiftUI
 struct SwiftUI_demoApp: App {
     var body: some Scene {
         WindowGroup {
-//            ContentView()
-//            Printer()
-            Printer2()
+            Printer()
         }
     }
 }
